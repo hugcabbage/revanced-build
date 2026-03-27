@@ -25,6 +25,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.a
 
 [YouTube-Morphe]
 enabled = true
+excluded-patches = "'Custom branding'"
 app-name = "YouTube"
 patches-source = "MorpheApp/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
